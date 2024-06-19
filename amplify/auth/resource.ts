@@ -1,4 +1,5 @@
-import { defineAuth } from '@aws-amplify/backend';
+// amplify/auth/resource.ts
+import { defineAuth } from "@aws-amplify/backend";
 
 /**
  * Define and configure your auth resource
